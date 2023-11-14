@@ -48,7 +48,7 @@ const Navbar = () => {
               <a href="#">Fishes</a>
             </li>
             <li className="menu">
-              <a href="more">More</a>
+              <a href="#">More</a>
             </li>
             <li className="px-4 py-2">
               <svg
