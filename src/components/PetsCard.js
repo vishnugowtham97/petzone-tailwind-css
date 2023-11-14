@@ -2,8 +2,6 @@ import React from "react";
 
 const PetsCard = ({ pet }) => {
   return (
-    // creating card details
-
     <div className="rounded-2xl overflow-hidden shadow-xl relative group transform hover:scale-105 duration-200">
       <img
         className="object-cover"
@@ -17,8 +15,6 @@ const PetsCard = ({ pet }) => {
           ADD TO CART
         </span>
       </div>
-
-      {/* Tag line  */}
 
       <span className="absolute right-4 top-4 border border-1-grey bg-stone-100 rounded-md p-1 text-xs">
         Limited

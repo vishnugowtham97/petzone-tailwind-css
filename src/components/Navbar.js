@@ -39,13 +39,13 @@ const Navbar = () => {
         >
           <ul className="md:flex md:space-x-8 font-body">
             <li className="menu">
-              <a href="fruits">Dogs</a>
+              <a href="#">Dogs</a>
             </li>
             <li className="menu">
-              <a href="veg">Cats</a>
+              <a href="#">Cats</a>
             </li>
             <li className="menu">
-              <a href="veg">Fishes</a>
+              <a href="#">Fishes</a>
             </li>
             <li className="menu">
               <a href="more">More</a>
